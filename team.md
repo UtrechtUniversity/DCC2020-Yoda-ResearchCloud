@@ -1,4 +1,5 @@
 # Team en dankbetuiging
+[(terug naar index)](index.md)
 
 Dit project is gerealiseerd met subsidie vanuit NWO via SURF,
 verstrekt in het kader van een uitvoeringsplan van de rijksoverheid genaamd
@@ -38,3 +39,4 @@ In het bijzonder zijn wij erkentelijk:
 - Stefan Wolfsheimer
 
 
+[(terug naar index)](index.md)
