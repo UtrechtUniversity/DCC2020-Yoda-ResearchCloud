@@ -1,15 +1,27 @@
 # DCC2020-Yoda-ResearchCloud
-This repository is a presentation and index to the results
-of the project "Veilig verbinden van een virtuele werkomgeving met een
+(for English see below)
+
+## Dutch:
+Deze repository vormt een presentatie van en index naar de resultaten
+van het project "Veilig verbinden van een virtuele werkomgeving met een
 datamanagementomgeving: de verbinding tussen Research Cloud
-en iRODS en Yoda" as it has been executed by Utrecht University in 2021.
+en iRODS en Yoda". 
+Dit project is in 2021 uitgevoerd door Universiteit Utrecht.
 
-Please see our [project index](https://utrechtuniversity.github.io/DCC2020-Yoda-ResearchCloud/)
-for further information.
+Open [project index](https://utrechtuniversity.github.io/DCC2020-Yoda-ResearchCloud/) 
+voor verdere informatie.
 
+## English:
+This repository is a presentation of and index to the output of a project
+"Safely interconnect cloud research data analysis workspaces with
+data management services: connecting SURF Research Cloud with Yoda". 
+This project is realized in 2021 by Utrecht University.
 
-## Acknowledgements
-The project has received funding from NWO via SURF in the context
-of the national plan [Investeringen digitale onderzoeksinfrastructuur](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/rapporten/2019/10/01/uitvoeringsplan-investeringen-digitale-onderzoeksinfrastructuur/16825243-uitvoeringsplan-investeringen-digitale-onderzoeksinfrastructuur-nwo.pdf).
-It has been granted funding as one of 15 projects in a DCC 2020 call for proposal.
+Please navigate to our 
+[project index](https://utrechtuniversity.github.io/DCC2020-Yoda-ResearchCloud/)
+for further information. 
+While the ruling language for the project has been Dutch, some
+documentation has been prepared in English,
+often to facilitate discussions with international staff.
+ 
 
