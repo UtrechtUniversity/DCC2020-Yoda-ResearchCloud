@@ -29,7 +29,7 @@ De andere repository bevat de [ontwikkelde software en bijbehorende documentatie
 dit betreft vooral software voor het configureren van workspaces.
 
 ## Project team
-De realisatie is uitgevoerd door een team van Universiteit Utrecht bestaande uit:
+De realisatie is in opdracht van Frank Heere (ITS/RDMS) uitgevoerd door een team van Universiteit Utrecht bestaande uit:
 - Jelle Treep
 - Johan Rietveld
 - Lazlo Westerhof
