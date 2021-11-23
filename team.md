@@ -1,12 +1,6 @@
 # Team en dankbetuiging
 [(terug naar index)](index.md)
 
-Dit project is gerealiseerd met subsidie vanuit NWO via SURF,
-verstrekt in het kader van een uitvoeringsplan van de rijksoverheid genaamd
-[Investeringen digitale onderzoeksinfrastructuur](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/rapporten/2019/10/01/uitvoeringsplan-investeringen-digitale-onderzoeksinfrastructuur/16825243-uitvoeringsplan-investeringen-digitale-onderzoeksinfrastructuur-nwo.pdf).
-
-Subsidie referentie: SURF DCCC-2020-Project-02.
-
 ## Project team
 De realisatie is uitgevoerd door een team van Universiteit Utrecht bestaande uit:
 - Jelle Treep
@@ -37,6 +31,13 @@ In het bijzonder zijn wij erkentelijk:
 - Martin Brand
 - Pieter van der Meulen
 - Stefan Wolfsheimer
+
+## Fondsen
+Dit project is gerealiseerd met NWO fondsen verstrekt via SURF,
+in het kader van een uitvoeringsplan van de rijksoverheid genaamd
+[Investeringen digitale onderzoeksinfrastructuur](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/rapporten/2019/10/01/uitvoeringsplan-investeringen-digitale-onderzoeksinfrastructuur/16825243-uitvoeringsplan-investeringen-digitale-onderzoeksinfrastructuur-nwo.pdf).
+
+Subsidie referentie: SURF DCCC-2020-Project-02.
 
 
 [(terug naar index)](index.md)
