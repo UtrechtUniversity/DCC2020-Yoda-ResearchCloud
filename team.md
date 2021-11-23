@@ -1,4 +1,4 @@
-# Acknowledgements
+# Team en dankbetuiging
 
 Dit project is gerealiseerd met subsidie vanuit NWO via SURF,
 verstrekt in het kader van een uitvoeringsplan van de rijksoverheid genaamd
@@ -6,7 +6,7 @@ verstrekt in het kader van een uitvoeringsplan van de rijksoverheid genaamd
 
 Subsidie referentie: SURF DCCC-2020-Project-02.
 
-# Project team
+## Project team
 De realisatie is uitgevoerd door een team van Universiteit Utrecht bestaande uit:
 - Jelle Treep
 - Johan Rietveld
@@ -22,7 +22,7 @@ Inhoudelijke bijdragen zijn verder ontvangen van:
 - Sietse Snel
 
 
-# Dankbetuiging
+## Dankbetuiging
 Wij bedanken de medewerkers van SURF voor hun inhoudelijke bijdragen aan dit project. 
 In het bijzonder zijn wij erkentelijk:
 - Arnaut Terpstra
