@@ -1,26 +1,32 @@
 # Welkom bij project DCC2020 Yoda ResearchCloud
 
 ## Doel
-Het doel van dit project is om onderzoekers te helpen om hun data eenvoudig, veilig en snel te kunnen
+We willen onderzoekers helpen om hun data eenvoudig, veilig en snel te kunnen
 bewerken en analyseren. We doen dit door data vanuit de institutionele Research Data Management omgeving (Yoda) toegankelijk te
 maken binnen de Virtual Research Environments, die met SURF Research Cloud worden aangemaakt.
 
-Resultaat is dat het managen van data binnen een virtuele _workspace_ makkelijker wordt voor een onderzoeker. 
-Data-uitgifte en -inname wordt eenvoudiger voor een datamanager. Het standaardiseren zorgt voor verkleinen
-van kans op fouten (zoals datalekken) en verlaagt de drempel voor het inzetten van SURF Research Cloud diensten.
+Resultaat is dat het managen van data binnen een virtuele _workspace_ makkelijker wordt voor de onderzoeker. 
+Data-uitgifte en -inname wordt eenvoudiger voor een datamanager. Standaardisatie zorgt voor verkleinen
+van kans op fouten en verlaagt de drempel voor het inzetten van SURF Research Cloud diensten.
 
 ## Use cases
-Bij de project werkzaamheden hebben we ons gericht op drie verschillende soorten use cases:
+Bij de project werkzaamheden hebben we ons gericht op drie verschillende soorten van gebruik:
 - onderzoekers en ondersteuners die tijdelijke een krachtige werkplek nodig hebben voor ad-hoc data verwerking
 - research engineers die samen met onderzoekers workflows/algoritmen ontwikkelen of optimaliseren
 - datamanagers die gecontroleerd data beschikbaar willen stellen voor een specifiek onderzoek
 
-## Werkpakketten
-Bij de uitvoering hebben wij drie vraagstukken onderscheiden rond integrale dienstverlening SURF Research Cloud / Yoda.  
-Navigeer naar het werkpakket voor de bijbehorende documentatie:
+## Werkpakketten/Resultaten
+We groeperen de project werkzaamheden naar onderwerpen rond de integrale dienstverlening 
+SURF Research Cloud / Yoda. Navigeer naar het werkpakket voor de bijbehorende documentatie:
 - [Authenticatie en autorisatie over organisaties en diensten heen](index.md)
 - [Data uitwisseling tussen de analyse workspace en de data management omgeving](index.md)
 - [Initiele workspace aanbod en ondersteuning](index.md) 
+
+De project output is te vinden op Github in twee afzonderlijke repositories/github pages: 
+Een repository is voor [beschrijvende documentatie](https://utrechtuniversity.github.io/DCC2020-Yoda-ResearchCloud/), 
+deze leest u nu.
+De andere repository bevat de [ontwikkelde software en bijbehorende documentatie](https://utrechtuniversity.github.io/researchcloud-items/),
+dit betreft vooral software voor het configureren van workspaces.
 
 ## Project team
 De realisatie is uitgevoerd door een team van Universiteit Utrecht bestaande uit:
@@ -30,7 +36,7 @@ De realisatie is uitgevoerd door een team van Universiteit Utrecht bestaande uit
 - Maarten Hoogerwerf
 - Ton Smeele
 
-Inhoudelijke bijdragen zijn verder ontvangen van:
+Inhoudelijke bijdragen hebben wij verder ontvangen van:
 - Kees van Eijden
 - Lloyd Sabajo
 - Michael Honkoop
