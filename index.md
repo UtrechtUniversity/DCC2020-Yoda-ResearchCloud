@@ -64,5 +64,5 @@ Dit project is gerealiseerd met NWO fondsen verstrekt via SURF,
 in het kader van een uitvoeringsplan van de rijksoverheid genaamd
 [Investeringen digitale onderzoeksinfrastructuur](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/rapporten/2019/10/01/uitvoeringsplan-investeringen-digitale-onderzoeksinfrastructuur/16825243-uitvoeringsplan-investeringen-digitale-onderzoeksinfrastructuur-nwo.pdf).
 
-Subsidie referentie: SURF DCCC-2020-Project-02.
+Subsidie referentie: SURF DCC-2020 Project 02.
 
