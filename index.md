@@ -1,4 +1,4 @@
-# Welkom bij project DCC2020 Yoda ResearchCloud
+# Welkom bij project DCC2020 Yoda en SURF Research Cloud
 
 ## Doel
 We willen onderzoekers helpen om hun data eenvoudig, veilig en snel te kunnen
