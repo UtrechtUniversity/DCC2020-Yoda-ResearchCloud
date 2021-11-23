@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages DCC
 
 You can use the [editor on GitHub](https://github.com/UtrechtUniversity/DCC2020-Yoda-ResearchCloud/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
