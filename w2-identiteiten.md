@@ -31,6 +31,7 @@ van SURF Research Cloud.
 
 **Aanbeveling 1:** Uitwerken van een visie op gedelegeerde autorisatie 
 (door SURF en UU: SURF SRAM, SURF ResearchCloud, Yoda, iRODS).
+
 **Aanbeveling 2:** iRODS en Yoda in het algemeen geschikt maken voor gebruik 
 van OIDC tokens (iRODS, SURF, UU). 
 
