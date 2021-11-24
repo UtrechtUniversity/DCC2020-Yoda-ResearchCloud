@@ -17,7 +17,7 @@ Bij de project werkzaamheden hebben we ons gericht op drie verschillende soorten
 
 Als concreet onderzoeksproject zijn als use case gebruikt:
 - Jobdigger
-- Tweets Collector
+- [Tweets Collector](https://github.com/UtrechtUniversity/tweet_collector)
 - [Dynamics of Youth](https://youthonderzoek.nl/)
 
 ## Werkpakketten/Resultaten
