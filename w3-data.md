@@ -2,9 +2,11 @@
 [(terug naar index)](index.md)
 
 ## Ambitie
-*Als:* onderzoeker    
-*wil ik:* gemakkelijk authenticeren bij Yoda vanuit SURF Research Cloud    
-*zodat ik:* mijn Yoda data kan benaderen.   
+**Als** onderzoeker 
+**wil ik** gemakkelijk data kunnen uitwisselen tussen Yoda en 
+SURF Research Cloud
+**zodat ik** de data van mijn analyses in workspaces goed kan beheren 
+
 
 ## Uitvoering en resultaten
 
