@@ -19,7 +19,7 @@ Bij de project werkzaamheden hebben we ons gericht op drie verschillende soorten
 We groeperen de project werkzaamheden naar onderwerpen rond de integrale dienstverlening 
 SURF Research Cloud / Yoda. Navigeer naar het werkpakket voor de bijbehorende documentatie:
 - [Basis: Initiele workspace aanbod en ondersteuning](index.md) 
-- [Identiteiten: Authenticatie en autorisatie over organisaties en diensten heen](index.md)
+- [Identiteiten: Authenticatie en autorisatie over organisaties en diensten heen](identiteiten.md)
 - [Data: Uitwisseling tussen de analyse workspace en de data management omgeving](index.md)
 
 De project output is te vinden op Github in twee afzonderlijke repositories/github pages: 
