@@ -11,12 +11,12 @@ van kans op fouten en verlaagt de drempel voor het inzetten van SURF Research Cl
 
 ## Use cases
 Bij de project werkzaamheden hebben we ons gericht op drie verschillende soorten van gebruik:
-- Onderzoekers en ondersteuners die tijdelijke een krachtige werkplek nodig hebben voor ad-hoc data verwerking   
+- Onderzoekers en ondersteuners die tijdelijke een krachtige werkplek nodig hebben voor ad-hoc data verwerking.   
 Concrete use case: [SustaIndus](https://www.sustaindus.org/)
 - Research engineers die samen met onderzoekers workflows/algoritmen ontwikkelen 
-of optimaliseren   
+of optimaliseren.   
 Concrete use case: [Tweets Collector](https://github.com/UtrechtUniversity/tweet_collector)
-- Datamanagers die gecontroleerd data beschikbaar willen stellen voor een specifiek onderzoek   
+- Datamanagers die gecontroleerd data beschikbaar willen stellen voor een specifiek onderzoek.   
 Concrete use case: [Dynamics of Youth](https://youthonderzoek.nl/) 
 
 ## Werkpakketten/Resultaten
