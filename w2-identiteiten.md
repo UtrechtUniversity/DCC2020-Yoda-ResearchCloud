@@ -3,7 +3,7 @@
 
 ## Ambitie
 Als **onderzoeker** 
-wil ik **vanuit SURF Research Cloud gemakkelijk authenticeren** bij Yoda
+wil ik **vanuit SURF Research Cloud gemakkelijk authenticeren bij Yoda**
 zodat ik **mijn Yoda data kan benaderen**.
 
 ## Uitvoering en resultaten
@@ -13,11 +13,11 @@ link in zich dragen
 
 Ontwerp: [identiteiten](w2/w2-Integreren_Yoda_en_SURF_Research_Cloud_identiteiten.pdf)
 
-[autoprovisioning](w2-Autoprovisioning_Yoda_SRAM.pdf)
+[autoprovisioning](w2/w2-Autoprovisioning_Yoda_SRAM.pdf)
 
 [Data Access Password Yoda](https://utrechtuniversity.github.io/yoda/design/overview/authentication.html)
 
-[Data Acccess testrapport](w3/test-mounted-disk-public.pdf)
+[Data Acccess testrapport](w3/w3-test-mounted-disk-public.pdf)
 
 motivatie toevoegen voor gekozen oplossingsrichting (niet LDAP)
 
