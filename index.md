@@ -18,7 +18,7 @@ Bij de project werkzaamheden hebben we ons gericht op drie verschillende soorten
 Als concreet onderzoeksproject zijn als use case gebruikt:
 - [SustaIndus](https://www.sustaindus.org/) (krachtige werkplek)
 - [Tweets Collector](https://github.com/UtrechtUniversity/tweet_collector) (research engineers)
-- [Dynamics of Youth](https://youthonderzoek.nl/) (data beschikbaar stellen)
+- [Dynamics of Youth](https://youthonderzoek.nl/) (gecontroleerd data beschikbaar stellen)
 
 ## Werkpakketten/Resultaten
 We groeperen de project werkzaamheden naar onderwerpen rond de integrale dienstverlening 
