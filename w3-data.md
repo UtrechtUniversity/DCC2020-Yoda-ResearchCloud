@@ -30,4 +30,9 @@ voldoende geisoleerd is van het internet.
 **Aanbeveling:** Implementatie van een workspace configuratie geschikt voor gevoelige data (SURF).
 Na oplevering kan de ontworpen sluisfunctie geimplementeerd kan worden (UU). 
 
+De gerealiseerde gebruiksvriendelijke interface voor het uitwisselen van data met Yoda/iRODS 
+is nog niet geschikt voor grotere bestanden (Terrabytes) waar eisen worden gesteld aan
+herstartbaarheid van het data transfer proces.
 
+**Aanbeveling:** Aandacht vragen bij iRODS consortium voor de realisatie van betere client-side 
+tools (UU, SURF en andere iRODS Consortium leden).
