@@ -3,7 +3,7 @@
 
 ## Ambitie
 Als **onderzoeker** 
-wil ik **gemakkelijk authenticeren bij Yoda vanuit SURF Research Cloud**
+wil ik **vanuit SURF Research Cloud gemakkelijk authenticeren** bij Yoda
 zodat ik **mijn Yoda data kan benaderen**.
 
 ## Uitvoering en resultaten

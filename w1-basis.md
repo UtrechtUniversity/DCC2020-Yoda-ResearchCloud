@@ -3,9 +3,9 @@
 
 ## Ambitie
 Als **onderzoeker** 
-wil ik **een vindbare en toegankelijke workspace**
-zodat ik **mijn analyse en data management op een 
-veilige en schaalbare manier kan doen**
+wil ik een **vindbare en toegankelijke workspace**
+zodat ik mijn **analyse en data management op een 
+veilige en schaalbare manier** kan doen
 
 ## Uitvoering en resultaten
 
