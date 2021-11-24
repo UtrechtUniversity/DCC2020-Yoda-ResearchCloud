@@ -32,7 +32,7 @@ repositories/github pages:
 - [beschrijvende documentatie](https://utrechtuniversity.github.io/DCC2020-Yoda-ResearchCloud/), deze informatie leest u nu.
 - [plugins/applicaties voor SURF Research Cloud](https://utrechtuniversity.github.io/researchcloud-items/),
 bevat scripts, applicaties en documentatie voor het configureren van workspaces.
-- [Yoda](https://utrechtuniversity.github.io/yoda/) [energize](https://github.com/UtrechtUniversity/energize) zijn Yoda gerelateerde reposities 
+- [Yoda](https://utrechtuniversity.github.io/yoda/) en [energize](https://github.com/UtrechtUniversity/energize) zijn Yoda gerelateerde reposities 
 die onder meer software en/of ontwerpen bevatten die in opdracht van 
 het project ontwikkeld zijn.   
 De werkpakketten bevatten verwijzingen naar specifieke onderdelen in deze repositories.
