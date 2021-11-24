@@ -23,5 +23,11 @@ link in zich dragen
 poc?
 
 # Bevindingen en aanbevelingen
+Voor de verwerking van gevoelige data is de huidige functionaliteit van SURF Research Cloud 
+onvoldoende geschikt. De beoogde sluisfunctie zal alleen effect hebben als de workspace
+voldoende geisoleerd is van het internet.
+
+**Aanbeveling:** Implementatie van een workspace configuratie geschikt voor gevoelige data (SURF).
+Na oplevering kan de ontworpen sluisfunctie geimplementeerd kan worden (UU). 
 
 
