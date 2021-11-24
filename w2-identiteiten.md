@@ -13,6 +13,8 @@ link in zich dragen
 
 [identiteiten](w2/w2-Integreren_Yoda_en_SURF_Research_Cloud_identiteiten.pdf)
 
-# Bevindingen en aanbevelingen
+[autoprovisioning](w2-Autoprovisioning_Yoda_SRAM.pdf)
+
+## Bevindingen en aanbevelingen
 
 
