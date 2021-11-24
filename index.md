@@ -39,7 +39,7 @@ het project ontwikkeld zijn.
 
 Het is onze intentie algemeen (her)gebruik van de project resultaten te stimuleren.
 De beschrijvende documentatie wordt daarom beschikbaarheid gesteld onder een 
-[CC-BY](LICENSE) licentie. 
+[CC-BY](LICENSE.txt) licentie. 
 De licentie van de overige project output (software componenten) is gedocumenteerd in de
 desbetreffende repository.    
 NB:Om praktische en juridische redenen kan de licentie per component
