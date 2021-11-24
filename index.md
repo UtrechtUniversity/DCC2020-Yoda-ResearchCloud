@@ -16,7 +16,6 @@ Concrete use case: [SustaIndus](https://www.sustaindus.org/)
 - research engineers die samen met onderzoekers workflows/algoritmen ontwikkelen 
 of optimaliseren   
 Concrete use case: [Tweets Collector](https://github.com/UtrechtUniversity/tweet_collector)
-
 - datamanagers die gecontroleerd data beschikbaar willen stellen voor een specifiek onderzoek   
 Concrete use case: [Dynamics of Youth](https://youthonderzoek.nl/) 
 
