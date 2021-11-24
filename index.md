@@ -18,7 +18,7 @@ Bij de project werkzaamheden hebben we ons gericht op drie verschillende soorten
 Als concreet onderzoeksproject zijn als use case gebruikt:
 - Jobdigger
 - Tweets Collector
-- Dynamics of Youth
+- [Dynamics of Youth](https://youthonderzoek.nl/)
 
 ## Werkpakketten/Resultaten
 We groeperen de project werkzaamheden naar onderwerpen rond de integrale dienstverlening 
