@@ -16,7 +16,7 @@ Bij de project werkzaamheden hebben we ons gericht op drie verschillende soorten
 - datamanagers die gecontroleerd data beschikbaar willen stellen voor een specifiek onderzoek
 
 Als concreet onderzoeksproject zijn als use case gebruikt:
-- Jobdigger
+- [SustaIndus](https://www.sustaindus.org/)
 - [Tweets Collector](https://github.com/UtrechtUniversity/tweet_collector)
 - [Dynamics of Youth](https://youthonderzoek.nl/)
 
