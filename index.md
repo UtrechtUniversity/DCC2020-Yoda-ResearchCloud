@@ -26,7 +26,8 @@ SURF Research Cloud / Yoda. Navigeer naar het werkpakket voor de bijbehorende do
 - [W2 Identiteiten: Authenticatie en autorisatie over organisaties en diensten heen](w2-identiteiten.md)
 - [W3 Data: Uitwisseling tussen de analyse workspace en de data management omgeving](w3-data.md)
 
-De project output kan terug gevonden worden per themais beschikbaar vanuit een aantal repositories/github pages,
+De project output kan terug gevonden worden per thema, en 
+is beschikbaar vanuit een aantal repositories/github pages,
 gestructureerd naar de aard van de output: 
 - [Beschrijvende documentatie](https://utrechtuniversity.github.io/DCC2020-Yoda-ResearchCloud/), deze informatie leest u nu.
 - [Plugin/Applicatie software voor SURF Research Cloud](https://utrechtuniversity.github.io/researchcloud-items/),
@@ -35,7 +36,14 @@ bevat scripts, applicaties en documentatie voor het configureren van workspaces.
 repositories 
 die onder meer software en/of ontwerpen bevatten die in opdracht van 
 het project ontwikkeld zijn.  
- 
+
+Het is onze intentie algemeen (her)gebruik van de project resultaten te stimuleren.
+De beschrijvende documentatie wordt daarom beschikbaarheid gesteld onder een 
+[CC-BY](LICENSE) licentie. 
+De licentie van de overige project output (software componenten) is gedocumenteerd in de
+desbetreffende repository.    
+NB:Om praktische en juridische redenen kan de licentie per component
+verschillen.
 
 ## Project team
 De realisatie is in opdracht van Frank Heere (ITS/RDMS) uitgevoerd door een team van Universiteit Utrecht bestaande uit:
