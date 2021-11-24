@@ -13,10 +13,10 @@ link in zich dragen
 
 [sluisfunctie ontwerp](w3/w3-sluisfunctie-ontwerp.pdf)
 
-[grafische irsync](...)
-[ontwerp robuuste data transfer](...)
+[grafische irsync](https://github.com/UtrechtUniversity/researchcloud-items/blob/main/docs/roles/irods_guisync.md)
+[ontwerp robuuste data transfer](https://github.com/UtrechtUniversity/energize)
 
-[testrapport mounted](...)
+[testrapport mounted](w3/w3-test-mounted-disk-public.pdf)
 
 poc?
 

@@ -15,6 +15,11 @@ Bij de project werkzaamheden hebben we ons gericht op drie verschillende soorten
 - research engineers die samen met onderzoekers workflows/algoritmen ontwikkelen of optimaliseren
 - datamanagers die gecontroleerd data beschikbaar willen stellen voor een specifiek onderzoek
 
+Als concreet onderzoeksproject zijn als use case gebruikt:
+- Jobdigger
+- Tweets Collector
+- Dynamics of Youth
+
 ## Werkpakketten/Resultaten
 We groeperen de project werkzaamheden naar onderwerpen rond de integrale dienstverlening 
 SURF Research Cloud / Yoda. Navigeer naar het werkpakket voor de bijbehorende documentatie:
