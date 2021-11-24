@@ -11,6 +11,14 @@
 hier documentatie die informatie, bevindingen en deelresulaten als
 link in zich dragen
 
+[catalog items](...)
+[whoarewe](...)
+[primer voor users](...)
+[factsheet voor ondersteuners](...)
+
+[accounting](w1/w1-accounting.pdf)
+
+
 # Bevindingen en aanbevelingen
 
 
