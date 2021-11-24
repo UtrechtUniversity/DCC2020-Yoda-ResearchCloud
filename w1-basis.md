@@ -9,12 +9,15 @@ veilige en schaalbare manier** kan doen
 
 ## Uitvoering en resultaten
 
-hier documentatie die informatie, bevindingen en deelresulaten als
+TODO: hier documentatie toevoegen die informatie, bevindingen en deelresulaten als
 link in zich dragen
 
 [catalog items](https://utrechtuniversity.github.io/researchcloud-items/)
+
 [whoarewe](https://utrechtuniversity.github.io/researchcloud-items/whoiswho.html)
+
 [primer voor users](https://utrechtuniversity.github.io/researchcloud-items/primer-for-users.html)
+
 [begeleiden bij eerste gebruik](https://utrechtuniversity.github.io/researchcloud-items/primer/workshop-src.html)
 
 [accounting](w1/w1-accounting.pdf)

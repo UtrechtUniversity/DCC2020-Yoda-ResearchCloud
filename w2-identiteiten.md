@@ -8,20 +8,21 @@ zodat ik **mijn Yoda data kan benaderen**.
 
 ## Uitvoering en resultaten
 
-hier documentatie die informatie, bevindingen en deelresulaten als
+TODO: hier documentatie toevoegen die informatie, bevindingen en deelresulaten als
 link in zich dragen
+motivatie toevoegen voor gekozen oplossingsrichting (niet LDAP)
 
-Ontwerp: [identiteiten](w2/w2-Integreren_Yoda_en_SURF_Research_Cloud_identiteiten.pdf)
+[identiteiten ontwerp](w2/w2-Integreren_Yoda_en_SURF_Research_Cloud_identiteiten.pdf)
 
 [autoprovisioning](w2/w2-Autoprovisioning_Yoda_SRAM.pdf)
 
 [Data Access Password Yoda](https://utrechtuniversity.github.io/yoda/design/overview/authentication.html)
 
 [Data Acccess testrapport](w3/w3-test-mounted-disk-public.pdf)
+
 De gerealiseerde Yoda data-access token kan gebruikt worden met de huidige SURF
 Research Cloud functionaliteit and andere web-mounts.
 
-motivatie toevoegen voor gekozen oplossingsrichting (niet LDAP)
 
 ## Bevindingen en aanbevelingen
 

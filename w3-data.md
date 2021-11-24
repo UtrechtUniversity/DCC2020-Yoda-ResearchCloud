@@ -10,17 +10,17 @@ zodat ik van mijn analyses in workspaces **de data goed kan beheren**.
 
 ## Uitvoering en resultaten
 
-hier documentatie die informatie, bevindingen en deelresulaten als
-link in zich dragen
+TODO: hier documentatie toevoegen die informatie, bevindingen en deelresulaten als
+link in zich dragen.  poc?
 
 [sluisfunctie ontwerp](w3/w3-sluisfunctie-ontwerp.pdf)
 
 [grafische irsync](https://github.com/UtrechtUniversity/researchcloud-items/blob/main/docs/roles/irods_guisync.md)
+
 [ontwerp robuuste data transfer](https://github.com/UtrechtUniversity/energize)
 
 [testrapport mounted](w3/w3-test-mounted-disk-public.pdf)
 
-poc?
 
 # Bevindingen en aanbevelingen
 Voor de verwerking van gevoelige data is de huidige functionaliteit van SURF Research Cloud 
