@@ -2,10 +2,10 @@
 [(terug naar index)](index.md)
 
 ## Ambitie
-**Als** onderzoeker 
-**wil ik** gemakkelijk data kunnen uitwisselen tussen Yoda en 
-SURF Research Cloud
-**zodat ik** de data van mijn analyses in workspaces goed kan beheren 
+Als **onderzoeker** 
+wil ik **gemakkelijk data kunnen uitwisselen tussen Yoda en 
+SURF Research Cloud**
+zodat ik **de data van mijn analyses in workspaces goed kan beheren**. 
 
 
 ## Uitvoering en resultaten
