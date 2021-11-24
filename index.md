@@ -18,9 +18,9 @@ Bij de project werkzaamheden hebben we ons gericht op drie verschillende soorten
 ## Werkpakketten/Resultaten
 We groeperen de project werkzaamheden naar onderwerpen rond de integrale dienstverlening 
 SURF Research Cloud / Yoda. Navigeer naar het werkpakket voor de bijbehorende documentatie:
-- [Basis: Initiele workspace aanbod en ondersteuning](index.md) 
-- [Identiteiten: Authenticatie en autorisatie over organisaties en diensten heen](identiteiten.md)
-- [Data: Uitwisseling tussen de analyse workspace en de data management omgeving](index.md)
+- [W1 Basis: Initiele workspace aanbod en ondersteuning](w1-basis.md) 
+- [W2 Identiteiten: Authenticatie en autorisatie over organisaties en diensten heen](w2-identiteiten.md)
+- [W3 Data: Uitwisseling tussen de analyse workspace en de data management omgeving](w3-data.md)
 
 De project output is te vinden op Github in twee afzonderlijke repositories/github pages: 
 Een repository is voor [beschrijvende documentatie](https://utrechtuniversity.github.io/DCC2020-Yoda-ResearchCloud/), 
