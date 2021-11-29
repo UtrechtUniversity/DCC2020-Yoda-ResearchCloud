@@ -41,6 +41,7 @@ Voor datamanagers zijn de **iRODS icommands** toegevoegd aan workbenches zodat d
 omgeving benaderd kan worden vanuit SRC. Een nieuw **iSelect** commando is ontwikkeld om 
 het configueren van bekende iRODS zones te vereenvoudigen tot het maken van een keuze uit
 een lijst.   
+Gerelateerd materiaal:
 - [catalog items](https://utrechtuniversity.github.io/researchcloud-items/)
 
 Vanwege het pay-per-use karakter van de dienst hebben we ook onderzocht hoe kosten verrekening zou
@@ -48,7 +49,7 @@ kunnen gaan plaatsvinden. Uitgangspunt vormt de accounting rapportage vanuit SUR
 medio 2021 is ingeregeld.  De accounting concepten van SURF zijn geprojecteerd op verekening
 en doorbelasting behoeften vanuit de instelling. Met een Proof-Of-Concept is vastgesteld dat
 de accounting rapportage geautomatiseerd zou kunnen worden verwerkt om doorbelasting mee te sturen.   
-Gerelateerde deelproducten:
+Gerelateerd materiaal:
 - [accounting](w1/w1-accounting.pdf) bevat een uiteenzetting van accounting concepten, 
 aanbevelingen voor gebruik van deze concepten, en de source en resulatten van de Proof-Of-Concept.
 
