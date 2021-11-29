@@ -31,19 +31,28 @@ geeft het ondersteuning team suggesties voor het met 1:1 workshops begeleiden va
 van nieuwe gebruikers.
 
 Voor een nuttig gebruik van SRC door de pilot users heeft het team
-de SRC catalogus uitgebreid met eigen items en hiervoor configuratie-scripts ontwikkeld. 
-Zo kunnen onderzoekers nu aan de slag met een **Matlab workbench** waarmee tijdrovende analyses en
-simulaties gemakkelijk en snel in de cloud uitgevoerd kunnen worden.
-Research Engineers hebben een uitgebreide **Python workbench** tot hun beschikking met mogelijkheid
-voor kiezen van een specifieke Python versie en het gemakkelijk beheren van afhankelijkheden
-tussen Python modules (package management).  
-Voor datamanagers zijn de **iRODS icommands** toegevoegd aan workbenches zodat de datamanagement
-omgeving benaderd kan worden vanuit SRC. Een nieuw **iSelect** commando is ontwikkeld om 
-het configueren van bekende iRODS zones te vereenvoudigen tot het maken van een keuze uit
-een lijst.   
+de SRC catalogus uitgebreid met eigen items en hiervoor configuratie-scripts ontwikkeld.   
+Gerelateerd materiaal:
+- [Matlab workbench](https://utrechtuniversity.github.io/researchcloud-items/playbooks/matlab.html)
+is een catalogus item (plugin) waarmee onderzoekers tijdrovende analyses en
+simulaties gemakkelijk en snel op krachtige workspaces kunnen uitvoeren.
+- [Python workbench](https://utrechtuniversity.github.io/researchcloud-items/playbooks/python-workbench.html)
+is een plugin die het voor Research Engineers gemakkelijk maakt Python
+applicaties te ontwikkelen en beschikbaar te stellen. De workbench biedt de mogelijkheid
+voor het seleteren van een specifieke Python interpreter versie en afhankelijkheden tussen 
+Python modules kunnen met package manager Poetry beheerd worden.  
+- [iRODS icommands](https://utrechtuniversity.github.io/researchcloud-items/playbooks/icommands.html)
+is een plugin die de commandline tools van iRODS installeert in een workspace.
+Daarmee kunnen datamanagers en onderzoekers de Yoda datamanagement
+omgeving benaderen vanuit SRC. 
+- [iSelect](https://utrechtuniversity.github.io/researchcloud-items/roles/irods_iselect.html)
+is een binnen het project gerealiseerde op Python gebaseerde applicatie en plugin-rol, 
+die de verbinding met een Yoda datamanagement server configureert met de voor die server 
+benodigde eigenschappen.
+SRC gebruikers kunnen hun favoriete Yoda (of iRODS) omgeving uit een lijst selecteren.        
 Gerelateerd materiaal:
 - [catalog items](https://utrechtuniversity.github.io/researchcloud-items/) git repository met
-scripts voor deployment van SRC plug-ins
+scripts voor deployment van SRC plug-ins, waaronder de hierboven uitgelichte voorbeelden.
 
 Vanwege het pay-per-use karakter van de dienst hebben we ook onderzocht hoe kosten verrekening zou
 kunnen gaan plaatsvinden. Uitgangspunt vormt de accounting rapportage vanuit SURF zoals die
