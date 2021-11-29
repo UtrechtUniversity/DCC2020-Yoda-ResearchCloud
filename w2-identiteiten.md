@@ -8,20 +8,22 @@ zodat ik **mijn Yoda data kan benaderen**.
 
 ## Uitvoering en resultaten
 
-TODO: hier documentatie toevoegen die informatie, bevindingen en deelresulaten als
-link in zich dragen
-motivatie toevoegen voor gekozen oplossingsrichting (niet LDAP)
-
+- hoe kan een gebruiker meerdere diensten gebruiken met dezelfde identiteit?
+  -> gedelegeerde autorisatie is de oplossing
+  -> Data access password  + POC
 [identiteiten ontwerp](w2/w2-Integreren_Yoda_en_SURF_Research_Cloud_identiteiten.pdf)
-
-[autoprovisioning](w2/w2-Autoprovisioning_Yoda_SRAM.pdf)
-
 [Data Access Password Yoda](https://utrechtuniversity.github.io/yoda/design/overview/authentication.html)
 
 [Data Acccess testrapport](w3/w3-test-mounted-disk-public.pdf)
 
-De gerealiseerde Yoda data-access token kan gebruikt worden met de huidige SURF
-Research Cloud functionaliteit and andere web-mounts.
+- hoe kan een dienst als Yoda gebruikt worden in collaboraties gedefinieerd door SRAM?
+  -> SRAM heeft meer implicaties dan gedacht
+  -> LDAP niet de oplossing voor alles
+  -> user provisioning via SRAM?
+[autoprovisioning](w2/w2-Autoprovisioning_Yoda_SRAM.pdf)
+
+
+
 
 
 ## Bevindingen en aanbevelingen
