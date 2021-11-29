@@ -37,7 +37,7 @@ databestanden (> 1 TB) herstartbaar te maken.
 - [Testrapport netwerk disk](w3/w3-test-mounted-disk-public.pdf) beschrijft een praktijk test van 
 een mogelijkheid om Yoda als gekoppelde netwerk disk te benaderen (WebDAV protocol). Deze methode 
 maakt gebruik van een bestaande SRC voorziening voor koppelen ResearchDrive en van de binnen
-het project ontwikkelde Data Access password feature in Yoda. 
+het project ontwikkelde Data Access Password feature in Yoda. 
 Data op een netwerk disk is voor workspace applicaties te benaderen alsof het een lokaal 
 filesysteem betreft en vormt daardoor een gebruikers-vriendelijke oplossing. De toepasing van
 deze oplossing vereist nog dat SURF een kwetsbaarheid in de SRC ResearchDrive koppeling oplost.  
