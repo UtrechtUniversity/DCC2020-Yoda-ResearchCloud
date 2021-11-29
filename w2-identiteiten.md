@@ -49,7 +49,7 @@ Uitbesteden van gebruikersbeheer van een dienst zoals Yoda naar SRAM vereist ove
 aanpassingen in authenticatie en user provisioning ook een aanpassing/projectie van autorisaties. 
 Per SRAM collaboratie zal een afzonderlijke context nodig zijn (multi-tenant concept).   
 Gerelateerd materiaal:
-[autoprovisioning](w2/w2-Autoprovisioning_Yoda_SRAM.pdf)
+- [autoprovisioning](w2/w2-Autoprovisioning_Yoda_SRAM.pdf)
 
 ## Bevindingen en aanbevelingen
 
