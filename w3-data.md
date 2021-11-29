@@ -24,7 +24,7 @@ realisaties gewenst omdat er conflicterende behoeften
 bestaan voor de interactie tussen gebruiker en systeem. 
 Er zijn onderzoekers die graag een grafische desktop omgeving gebruiken
 en andere onderzoekers die opdrachten liever via de commandline *shell* verstrekken.
-De gerealiseerde gebruiker interface integraties zijn: 
+De voor SRC gerealiseerde gebruiker interface integraties zijn: 
 desktop synchronisatie, mounted disk, commandline.   
 Gerelateerd materiaal:
 - [Grafische irsync](https://github.com/UtrechtUniversity/researchcloud-items/blob/main/docs/roles/irods_guisync.md)
