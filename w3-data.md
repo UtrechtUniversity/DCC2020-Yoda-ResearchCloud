@@ -13,6 +13,8 @@ zodat ik van mijn analyses in workspaces **de data goed kan beheren**.
 TODO: hier documentatie toevoegen die informatie, bevindingen en deelresulaten als
 link in zich dragen.  poc?
 
+
+
 [sluisfunctie ontwerp](w3/w3-sluisfunctie-ontwerp.pdf)
 
 [grafische irsync](https://github.com/UtrechtUniversity/researchcloud-items/blob/main/docs/roles/irods_guisync.md)

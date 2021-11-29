@@ -42,11 +42,12 @@ omgeving benaderd kan worden vanuit SRC. Een nieuw **iSelect** commando is ontwi
 het configueren van bekende iRODS zones te vereenvoudigen tot het maken van een keuze uit
 een lijst.   
 Gerelateerd materiaal:
-- [catalog items](https://utrechtuniversity.github.io/researchcloud-items/)
+- [catalog items](https://utrechtuniversity.github.io/researchcloud-items/) git repository met
+scripts voor deployment van SRC plug-ins
 
 Vanwege het pay-per-use karakter van de dienst hebben we ook onderzocht hoe kosten verrekening zou
 kunnen gaan plaatsvinden. Uitgangspunt vormt de accounting rapportage vanuit SURF zoals die
-medio 2021 is ingeregeld.  De accounting concepten van SURF zijn geprojecteerd op verekening
+medio 2021 is ingeregeld.  De accounting concepten van SURF zijn geprojecteerd op verrekening
 en doorbelasting behoeften vanuit de instelling. Met een Proof-Of-Concept is vastgesteld dat
 de accounting rapportage geautomatiseerd zou kunnen worden verwerkt om doorbelasting mee te sturen.   
 Gerelateerd materiaal:

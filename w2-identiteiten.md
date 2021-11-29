@@ -9,7 +9,7 @@ zodat ik **mijn Yoda data kan benaderen**.
 ## Uitvoering en resultaten
 
 - hoe kan een gebruiker meerdere diensten gebruiken met dezelfde identiteit?
-  -> gedelegeerde autorisatie is de oplossing
+  -> gedelegeerde autorisatie is de oplossing, toekomst via OIDC
   -> Data access password  + POC
 [identiteiten ontwerp](w2/w2-Integreren_Yoda_en_SURF_Research_Cloud_identiteiten.pdf)
 [Data Access Password Yoda](https://utrechtuniversity.github.io/yoda/design/overview/authentication.html)
