@@ -30,10 +30,10 @@ Gerelateerd materiaal:
 - [Grafische irsync](https://github.com/UtrechtUniversity/researchcloud-items/blob/main/docs/roles/irods_guisync.md)
 bevat een binnen het project ontwikkelde, op Python en Gtk3 gebaseerde, desktop applicatie. 
 De gebruiker kiest uit een lijst een Yoda folder en een SRC folder, daarna wordt de data
-gesynchroniseerd ind e gewenste richting. 
+gesynchroniseerd in de gewenste richting. 
 - [Ontwerp robuuste data transfer](https://github.com/UtrechtUniversity/energize) 
-bevat een ontwerp voor een uitbreiding van de grafische irsync om op robuuste (lees herstartbare) 
-wijze transfer van grote databestanden (> 1 TB) beter te kunnen ondersteunen. 
+bevat een ontwerp voor een uitbreiding van de grafische irsync om onder meer transfer van grote 
+databestanden (> 1 TB) herstartbaar te maken. 
 - [Testrapport mounted](w3/w3-test-mounted-disk-public.pdf) beschrijft een praktijk test van 
 een mogelijkheid om Yoda als gekoppelde netwerk disk te benaderen (WebDAV protocol). Deze methode 
 maakt gebruik van een bestaande SRC voorziening voor koppelen ResearchDrive en van de binnen
