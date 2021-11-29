@@ -33,7 +33,7 @@ op hergebruik.
 beschrijft de gerealiseerde Yoda feature. NB: beschikbaar vanaf Yoda 1.8. 
 In de bijbehorende git repository is ook de source code beschikbaar. 
 - [Data Acccess testrapport](w3/w3-test-mounted-disk-public.pdf) bevat de resultaten van een praktijk
-test waarbij Yoda data beschikbaar wordt binnen SRC met gebruik van de data acces password feature.
+test waarbij Yoda data beschikbaar wordt binnen SRC met gebruik van het data access password token.
 
 
 Bij het tweede onderdeel hebben we onderzocht of de Yoda functies *Gebruikersbeheer* en 
@@ -47,7 +47,7 @@ het aansluiten van diensten zoals Yoda. Deze gevolgen zijn niet alleen technisch
 hebben ook organisatorische en juridische consequenties.   
 Uitbesteden van gebruikersbeheer van een dienst zoals Yoda naar SRAM vereist overigens naast 
 aanpassingen in authenticatie en user provisioning ook een aanpassing/projectie van autorisaties. 
-bedenk dat per SRAM collaboratie een afzonderlijke context nodig zal zijn (multi-tenant concept).   
+Per SRAM collaboratie zal een afzonderlijke context nodig zijn (multi-tenant concept).   
 Gerelateerd materiaal:
 [autoprovisioning](w2/w2-Autoprovisioning_Yoda_SRAM.pdf)
 
