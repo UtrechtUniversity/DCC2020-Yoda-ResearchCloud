@@ -8,19 +8,49 @@ zodat ik mijn **analyse en data management op een
 veilige en schaalbare manier** kan doen
 
 ## Uitvoering en resultaten
+Bij dit werkpakket hebben we SURF Research Cloud (SRC) verkend en daarbij onderzocht welke 
+ondersteuning en voorzieningen onderzoekers en hun ondersteuners nodig hebben 
+bij gebruik van deze oplossing.  Dit hebben we uitgevoerd door functies van de dienst
+uit te proberen, en aan de hand van deze gegevens een team te formeren voor het ondersteunen
+van pilots.   
+Gerelateerd materiaal:
+- [whoarewe](https://utrechtuniversity.github.io/researchcloud-items/whoiswho.html) beschrijft het
+pilot team dat gebruik van de dienst ondersteunt. Onderscheid wordt gemaakt tussen functioneel beheer
+gerelateerde activiteiten enerzijds en consultancy/ontwikkeling activiteiten anderzins.
 
-TODO: hier documentatie toevoegen die informatie, bevindingen en deelresulaten als
-link in zich dragen
+Vervolgens heeft dit team de pilot gebruikers begeleid bij on-boarding en gebruik.
+Daarbij is gedurende het proces feedback verzameld over gebruiksgemak, wensen, en knelpunten.
+Deze feedback is gebruikt om instructie materiaal mee samen te stellen. Ook heeft dit geleid
+tot een aantal verbeter suggesties voor de dienst (ingediend bij SURF Servicedesk dan wel besproken
+met het SURF SRC Team).     
+Gerelateerd materiaal:
+- [primer for users](https://utrechtuniversity.github.io/researchcloud-items/primer-for-users.html)
+bevat instructies voor nieuwe gebruikers.
+- [SRC workshop](https://utrechtuniversity.github.io/researchcloud-items/primer/workshop-src.html)
+geeft het ondersteuning team suggesties voor het met 1:1 workshops begeleiden van on-boarding 
+van nieuwe gebruikers.
 
-[catalog items](https://utrechtuniversity.github.io/researchcloud-items/)
+Voor een nuttig gebruik van SRC door de pilot users heeft het team
+de SRC catalogus uitgebreid met eigen items en hiervoor configuratie-scripts ontwikkeld. 
+Zo kunnen onderzoekers nu aan de slag met een **Matlab workbench** waarmee tijdrovende analyses en
+simulaties gemakkelijk en snel in de cloud uitgevoerd kunnen worden.
+Research Engineers hebben een uitgebreide **Python workbench** tot hun beschikking met mogelijkheid
+voor kiezen van een specifieke Python versie en het gemakkelijk beheren van afhankelijkheden
+tussen Python modules (package management).  
+Voor datamanagers zijn de **iRODS icommands** toegevoegd aan workbenches zodat de datamanagement
+omgeving benaderd kan worden vanuit SRC. Een nieuw **iSelect** commando is ontwikkeld om 
+het configueren van bekende iRODS zones te vereenvoudigen tot het maken van een keuze uit
+een lijst.   
+- [catalog items](https://utrechtuniversity.github.io/researchcloud-items/)
 
-[whoarewe](https://utrechtuniversity.github.io/researchcloud-items/whoiswho.html)
-
-[primer voor users](https://utrechtuniversity.github.io/researchcloud-items/primer-for-users.html)
-
-[begeleiden bij eerste gebruik](https://utrechtuniversity.github.io/researchcloud-items/primer/workshop-src.html)
-
-[accounting](w1/w1-accounting.pdf)
+Vanwege het pay-per-use karakter van de dienst hebben we ook onderzocht hoe kosten verrekening zou
+kunnen gaan plaatsvinden. Uitgangspunt vormt de accounting rapportage vanuit SURF zoals die
+medio 2021 is ingeregeld.  De accounting concepten van SURF zijn geprojecteerd op verekening
+en doorbelasting behoeften vanuit de instelling. Met een Proof-Of-Concept is vastgesteld dat
+de accounting rapportage geautomatiseerd zou kunnen worden verwerkt om doorbelasting mee te sturen.   
+Gerelateerde deelproducten:
+- [accounting](w1/w1-accounting.pdf) bevat een uiteenzetting van accounting concepten, 
+aanbevelingen voor gebruik van deze concepten, en de source en resulatten van de Proof-Of-Concept.
 
 
 # Bevindingen en aanbevelingen
@@ -28,7 +58,7 @@ Onderzoekers zijn enthousiast over SURF Research Cloud. De on-boarding van nieuw
 vergt nog wel veel handmatige en tijdrovende activiteiten.
 
 **Aanbeveling 1:** Versnel het wallet uitgifte proces door ondersteuners via de portal
-wallets te laten aanmaken voor onderzoekers.
+wallets te laten aanmaken voor onderzoekers (SURF, UU).
 
 Het universiteitsbreed inzetten van SURF Research Cloud vraagt om structurele ondersteuning
 in de vorm van functioneel beheer en het bieden (en onderhouden) van een aantrekkelijke
