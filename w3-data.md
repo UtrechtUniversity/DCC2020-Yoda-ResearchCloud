@@ -34,7 +34,7 @@ gesynchroniseerd in de gewenste richting.
 - [Ontwerp robuuste data transfer](https://github.com/UtrechtUniversity/energize) 
 bevat een ontwerp voor een uitbreiding van de grafische irsync om onder meer transfer van grote 
 databestanden (> 1 TB) herstartbaar te maken. 
-- [Testrapport mounted](w3/w3-test-mounted-disk-public.pdf) beschrijft een praktijk test van 
+- [Testrapport netwerk disk](w3/w3-test-mounted-disk-public.pdf) beschrijft een praktijk test van 
 een mogelijkheid om Yoda als gekoppelde netwerk disk te benaderen (WebDAV protocol). Deze methode 
 maakt gebruik van een bestaande SRC voorziening voor koppelen ResearchDrive en van de binnen
 het project ontwikkelde Data Access password feature in Yoda. 
