@@ -24,14 +24,14 @@ Het genereren van access tokens via de OIDC standaard zal vereisen dat iRODS mee
 ondersteuning biedt voor authenticatie middels OIDC. Naar verwachting komt dit beschikbaar
 per iRODS 4.3.
 Uit een praktijk test met SRC en Yoda blijkt dat het data access password gebruikt kan worden
-om Yoda data om eenvoudige wijze beschikbaar te maken in een SRC workspace.   
+om Yoda data op eenvoudige wijze beschikbaar te maken in een SRC workspace.   
 Gerelateerd materiaal:
 - [Analyse hergebruik identiteiten](w2/w2-Integreren_Yoda_en_SURF_Research_Cloud_identiteiten.pdf)
 bevat de resultaten van het onderzoek naar registratie van identiteiten en de impact daarvan
 op hergebruik.
 - [Data Access Password Yoda](https://utrechtuniversity.github.io/yoda/design/overview/authentication.html)
-beschrijft de gerealiseerde Yoda feature. In de bijbehorende git repository is uiteraard ook de 
-source code beschikbaar.
+beschrijft de gerealiseerde Yoda feature. NB: beschikbaar vanaf Yoda 1.8. 
+In de bijbehorende git repository is ook de source code beschikbaar. 
 - [Data Acccess testrapport](w3/w3-test-mounted-disk-public.pdf) bevat de resultaten van een praktijk
 test waarbij Yoda data beschikbaar wordt binnen SRC met gebruik van de data acces password feature.
 
