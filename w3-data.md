@@ -10,7 +10,7 @@ zodat ik van mijn analyses in workspaces **de data goed kan beheren**.
 Als **data manager**
 wil ik **gevoelige data kunnen uitwisselen** tussen Yoda en
 SURF Research Cloud
-zodat **gevoelige data in analyses gebruikt** kunnen worden. 
+zodat **gevoelige data veilig in analyses gebruikt** kunnen worden. 
 
 ## Uitvoering en resultaten
 In dit werkpakket maken we een aantal realisaties voor het benaderen
