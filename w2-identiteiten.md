@@ -69,6 +69,6 @@ Naast uitbesteding van authenticatie aan SRAM dient de dienst namelijk
 iedere SRAM-CO (collaboratie) afzonderlijk te kunnen verwerken (multi-tenant).
 
 **Aanbeveling 3:** Besluit nemen over ondersteunen (externe) SRAM-CO's in Yoda (door UU).
-Daarbij ook afwegen of groepsbeheer volledig wordt uitbesteed aan SRAM danwel 
+Daarbij ook afwegen of groepsbeheer volledig wordt uitbesteed aan SRAM dan wel 
 voor een hybride oplossing wordt gekozen.
 

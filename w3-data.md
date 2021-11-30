@@ -39,7 +39,7 @@ een mogelijkheid om Yoda als gekoppelde netwerk disk te benaderen (WebDAV protoc
 maakt gebruik van een bestaande SRC voorziening voor koppelen ResearchDrive en van de binnen
 het project ontwikkelde Data Access Password feature in Yoda. 
 Data op een netwerk disk is voor workspace applicaties te benaderen alsof het een lokaal 
-filesysteem betreft en vormt daardoor een gebruikers-vriendelijke oplossing. De toepasing van
+filesysteem betreft en vormt daardoor een gebruikersvriendelijke oplossing. De toepasing van
 deze oplossing vereist nog dat SURF een kwetsbaarheid in de SRC ResearchDrive koppeling oplost.  
 - [Commandline iCommands set](https://utrechtuniversity.github.io/researchcloud-items/playbooks/icommands.html)
 bevat een voorziening om data transfer met Linux shell commando's te kunnen uitvoeren. De 
@@ -68,7 +68,7 @@ voldoende geisoleerd is van het internet.
 Na oplevering kan de ontworpen sluisfunctie geimplementeerd kan worden (UU). 
 
 De gerealiseerde gebruiksvriendelijke interface voor het uitwisselen van data met Yoda/iRODS 
-is nog niet geschikt voor grotere bestanden (Terrabytes) waar eisen worden gesteld aan
+is nog niet geschikt voor grotere bestanden (Terabytes) waar eisen worden gesteld aan
 herstartbaarheid van het data transfer proces.
 
 **Aanbeveling 2:** Aandacht vragen bij iRODS consortium voor de realisatie van betere client-side 
