@@ -16,11 +16,11 @@ van pilots.
 Gerelateerd materiaal:
 - [whoarewe](https://utrechtuniversity.github.io/researchcloud-items/whoiswho.html) beschrijft het
 pilot team dat gebruik van de dienst ondersteunt. Onderscheid wordt gemaakt tussen functioneel beheer
-gerelateerde activiteiten enerzijds en consultancy/ontwikkeling activiteiten anderzins.
+gerelateerde activiteiten enerzijds en consultancy/ontwikkeling activiteiten anderszins.
 
 Vervolgens heeft dit team de pilot gebruikers begeleid bij on-boarding en gebruik.
 Daarbij is gedurende het proces feedback verzameld over gebruiksgemak, wensen, en knelpunten.
-Deze feedback is gebruikt om instructie materiaal mee samen te stellen. Ook heeft dit geleid
+Deze feedback is gebruikt om instructiemateriaal mee samen te stellen. Ook heeft dit geleid
 tot een aantal verbeter suggesties voor de dienst (ingediend bij SURF Servicedesk dan wel besproken
 met het SURF SRC Team).     
 Gerelateerd materiaal:
@@ -50,7 +50,6 @@ is een binnen het project gerealiseerde op Python gebaseerde applicatie en plugi
 die de verbinding met een Yoda datamanagement server configureert met de voor die server 
 benodigde eigenschappen.
 SRC gebruikers kunnen hun favoriete Yoda (of iRODS) omgeving uit een lijst selecteren.        
-Gerelateerd materiaal:
 - [catalog items](https://utrechtuniversity.github.io/researchcloud-items/) git repository met
 scripts voor deployment van SRC plug-ins, waaronder de hierboven uitgelichte voorbeelden.
 
