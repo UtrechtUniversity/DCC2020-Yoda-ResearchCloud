@@ -19,8 +19,8 @@ SURF Research Cloud (SRC) workspace.
 Daarnaast onderzoeken we hoe gevoelige data op een veilige wijze
 beschikbaar kan worden gemaakt in een SRC workspace.
 
-Voor het benaderen van Yoda data vanuit een SRC workspace zijn verschillende
-realisaties gewenst omdat er conflicterende behoeften
+Voor het benaderen van Yoda data vanuit een SRC workspace zijn meerdere
+realisaties gewenst omdat er verschillende behoeften
 bestaan voor de interactie tussen gebruiker en systeem. 
 Er zijn onderzoekers die graag een grafische desktop omgeving gebruiken
 en andere onderzoekers die opdrachten liever via de commandline *shell* verstrekken.
