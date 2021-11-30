@@ -49,7 +49,7 @@ Uitbesteden van gebruikersbeheer van een dienst zoals Yoda naar SRAM vereist ove
 aanpassingen in authenticatie en user provisioning ook een aanpassing/projectie van autorisaties. 
 Per SRAM collaboratie zal een afzonderlijke context nodig zijn (multi-tenant concept).   
 Gerelateerd materiaal:
-- [autoprovisioning](w2/w2-Autoprovisioning_Yoda_SRAM.pdf)
+- [autoprovisioning](w2/w2-Autoprovisioning_Yoda_SRAM.pdf) bevat de analyse rond inzet van SRAM voor beheren van gebruikers van Yoda zoals hierboven genoemd.
 
 ## Bevindingen en aanbevelingen
 
@@ -57,7 +57,8 @@ Een gedelegeerde autorisatie methode
 kan gebruikt worden om diensten zoals Yoda te ontsluiten binnen een workspace
 van SURF Research Cloud. 
 
-**Aanbeveling 1:** Uitwerken van een visie op gedelegeerde autorisatie 
+**Aanbeveling 1:** Uitwerken van een visie op gedelegeerde autorisatie binnen
+de SRAM en/of SURFConext federatie
 (door SURF en UU: SURF SRAM, SURF ResearchCloud, Yoda, iRODS).
 
 **Aanbeveling 2:** iRODS en Yoda in het algemeen geschikt maken voor gebruik 
