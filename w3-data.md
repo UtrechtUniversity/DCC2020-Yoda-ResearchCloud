@@ -27,7 +27,7 @@ en andere onderzoekers die opdrachten liever via de commandline *shell* verstrek
 De voor SRC gerealiseerde integraties zijn: 
 desktop applicatie voor synchronisatie, netwerk disk, commandline.   
 Gerelateerd materiaal:
-- [Grafische irsync](https://github.com/UtrechtUniversity/researchcloud-items/blob/main/docs/roles/irods_guisync.md)
+- [Grafische irsync](https://utrechtuniversity.github.io/researchcloud-items/roles/irods_guisync.html)
 bevat een binnen het project ontwikkelde, op Python en Gtk3 gebaseerde, desktop applicatie. 
 De gebruiker kiest uit een lijst een Yoda folder en een SRC folder, daarna wordt de data
 gesynchroniseerd in de gewenste richting. 
